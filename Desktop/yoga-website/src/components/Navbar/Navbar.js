@@ -31,7 +31,7 @@ this.setState({clicked: !this.state.clicked})
                     })}
                 </ul>
                 <Button> Sign Up </Button>
-            </nav>
+            </nav>  
         )
     }
 }
