@@ -4,3 +4,8 @@ margin: 0;
 padding: 0;
 font-family: 'Montserrat', sans-serif;
 }
+ 
+body {
+    background: url("https://ca-times.brightspotcdn.com/dims4/default/49df06e/2147483647/strip/true/crop/1254x836+0+0/resize/840x560!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fe5%2F62eb933a29c60ba72bb16bfe66d0%2Fpac-free-yoga-san-diego-20180516-001");
+    background-size: cover;
+}

@@ -5,17 +5,17 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Services',
+        title: 'Classes',
         url: '#',
         cName: 'nav-links'
     },
     {
-        title: 'Products',
+        title: 'About YOGA',
         url: '#',
         cName: 'nav-links'
     },
     {
-        title: 'Contact Us',
+        title: 'Contact',
         url: '#',
         cName: 'nav-links'
     },
