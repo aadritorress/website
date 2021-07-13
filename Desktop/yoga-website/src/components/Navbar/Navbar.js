@@ -29,7 +29,7 @@ this.setState({clicked: !this.state.clicked})
                     )
                     })}
                 </ul>
-                <Button> Sign Up </Button>
+                <Button> At Home 2 Week FREE Trial </Button>
             </nav>  
         )
     }

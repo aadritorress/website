@@ -1,5 +1,5 @@
 .NavbarItems {
-    background: linear-gradient(90deg, rgb(245, 169, 6) 0%, rgb(218, 179, 106) 100%);
+    background: linear-gradient(90deg, rgb(33, 184, 114) 0%, rgb(113, 218, 169) 100%);
     height: 80px;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@
 }
 
 .nav-links:hover {
-    background-color: #d8aa48;
+    background-color: #85529c;
     border-radius: 4px;
     transition: all 0.2s ease-out;
 }
@@ -87,7 +87,7 @@
     }
 
     .nav-links:hover {
-        background-color: #f8cd70;
+        background-color: #9845a3;
         border-radius: 0;
     }
 
@@ -128,7 +128,7 @@
 
     .nav-links-mobile:hover {
         background: #fff;
-        color: #c48741;
+        color: #1da370;
         transition: 250ms;
     }
 
